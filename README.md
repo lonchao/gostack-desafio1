@@ -1,3 +1,3 @@
 # gostack-desafio1
 
-#código fonte desafio um node.js
+codigo fonte desafio um node.js
